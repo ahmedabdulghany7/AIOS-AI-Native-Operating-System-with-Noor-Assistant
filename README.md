@@ -45,5 +45,12 @@ AIOS is composed of the following main components:
    - Integrates with terminal and file system
 
 ---
-🚧 Project Status
-This project is currently under development as our graduation project. The source code will be uploaded soon as we finalize the main modules.
+---
+
+## 🚧 Project Status
+
+This project is currently **under active development** as part of our graduation project requirements. 
+
+We are finalizing the core modules and optimizing the integration. The source code will be uploaded in stages as we reach our project milestones. 
+
+> **Current Focus:** Integrating Noor Assistant with the System Execution Layer.
