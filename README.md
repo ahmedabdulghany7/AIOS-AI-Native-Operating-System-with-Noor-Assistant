@@ -45,3 +45,5 @@ AIOS is composed of the following main components:
    - Integrates with terminal and file system
 
 ---
+🚧 Project Status
+This project is currently under development as our graduation project. The source code will be uploaded soon as we finalize the main modules.
