@@ -8,7 +8,7 @@
 
 NOOR OS is an AI-native desktop environment built on top of the Linux kernel and Ubuntu 22.04. It addresses the "Interface Gap" of traditional operating systems by shifting from manual, fragmented navigation to an intent-based execution model. The system operates entirely offline, resolving cloud AI privacy concerns by executing powerful models directly on consumer hardware. 
 
-Developed as a graduation project at the Egyptian Chinese University by Mahmoud Gomaa (محمود جمعة), NOOR OS introduces a secure, autonomous agent integrated into a complete operating environment.
+Developed as a graduation project at the Egyptian Chinese University, NOOR OS introduces a secure, autonomous agent integrated into a complete operating environment.
 
 ## ✨ Core Capabilities
 
